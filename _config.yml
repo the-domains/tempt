@@ -1,0 +1,28 @@
+name: tempt
+favicon: null
+layout_spectrum: 0.6419700123369694
+typography_spectrum: 0.7162740400526673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#131313'
+    - '#b1b1af'
+    - '#4d4a45'
+    - '#e18545'
+    - '#8c1519'
+  brandStrength: 0.4494533019606024
+  lightness: 0.9562987533863634
+  saturation: 0.29496967792510986
+  rhythmicContrast: 0.21053324360400438
+purpose: []
